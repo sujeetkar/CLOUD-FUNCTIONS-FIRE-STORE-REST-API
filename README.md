@@ -1,4 +1,4 @@
-# Cloud functions and Fire store backend task
+# Rest API with Cloud functions and Fire store backend task
 Backend for authentication. Rest API + Cloud functions - Fire store
 
 # Introduction
